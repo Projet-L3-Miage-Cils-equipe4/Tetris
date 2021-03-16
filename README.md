@@ -1,6 +1,6 @@
 # Tetris
 
-Afin de faire fonctionner le Tetris, il faut télécharger le Tetris Version Beta et mettre tout son contenu dans un dossier que l'on ouvrira avec un IDE de son choix ayant Java d'installé. Une fois cela effectué, il vous suffit d'exécuter le fichier Ecran.java qui lancera le jeu de Tetris. Il nous reste encore à réaliser les Tétrominos (= les pièces pour jouer) et à gérer la partie de jeu en générant automatiquement des Tétrominos.
+Afin de faire fonctionner le Tetris, il faut télécharger le Tetris Version Beta et mettre tout son contenu dans un dossier que l'on ouvrira avec un IDE de son choix ayant Java d'installer. Une fois cela effectué, il vous suffit d'exécuter le fichier Ecran.java qui lancera le jeu de Tetris. Il nous reste encore à réaliser les Tétrominos (= les pièces pour jouer) et à gérer la partie de jeu en générant automatiquement des Tétrominos.
 
 Voici à quoi ressemble le Tetris à ce jour :
 
